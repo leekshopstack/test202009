@@ -1,0 +1,14 @@
+{
+	"name": "generatesnumbers",
+	"version": "1.0.0",
+	"description": "API generates numbers",
+	"main": "app.js",
+	"scripts": {
+		"test": "test"
+	},
+	"author": "Le Ke Tuan",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.17.1"
+	}
+}
